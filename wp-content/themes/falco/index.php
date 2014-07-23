@@ -10,7 +10,7 @@
 get_header(); 
 $sidebar = mfn_sidebar_classes();
 ?>
-
+Labas, cia testine eilute, del GitHub
 <!-- #Content -->
 <div id="Content">
 	<div class="content_wrapper clearfix">
